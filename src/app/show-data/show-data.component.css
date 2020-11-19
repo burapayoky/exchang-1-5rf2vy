@@ -1,0 +1,18 @@
+.content {
+  background-color: #b0c4b1;
+ // border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 10px;
+  margin-left: 80px;
+  width: 65%;
+}
+.head {  
+  display: flex;
+  justify-content: space-between;
+}
+
+.btudel{
+  color: gray;
+  //border: 1px solid gray;
+}
